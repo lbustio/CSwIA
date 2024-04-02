@@ -111,4 +111,5 @@ ENV/
 datas/
 __Trash__
 *.csv
+~*.*
 # End of PyCharm
