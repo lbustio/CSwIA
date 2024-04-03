@@ -40,6 +40,8 @@ Este taller fue desarrollado por:
 - Dr. Vitali Herrera Semenets – CENATAV, La Habana, Cuba (vherrera@cenatav.co.cu)
 - MSc. Felipe Antonio Trujillo Fernández – IBERO, Ciudad de México, México (felipe.trujillo@ibero.mx)
 - Dr. Lázaro Bustio Martínez – IBERO, Ciudad de México, México (lazaro.bustio@ibero.mx)
+- MSc. Joshua Ismael Haase Hernández  – IBERO, Ciudad de México, México (joshua.haase@ibero.mx)
+
 
 
 ¡Esperamos que disfrutes del taller y encuentres útiles los conocimientos adquiridos!
