@@ -112,4 +112,5 @@ datas/
 __Trash__
 *.csv
 ~*.*
+.*.sw*
 # End of PyCharm
